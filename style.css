@@ -1,0 +1,12 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.skip-color {
+    color: tomato;
+}
