@@ -7,10 +7,32 @@ h1 {
     font-weight: bolder;
 }
 
+.topper-padding {
+    padding-top: 10%;
+}
+
+.bottom-padding {
+    padding-bottom: 50%;
+
+}
+
+.bottom-place {
+    padding-bottom: 20px;
+}
+
 .skip-color {
     color: tomato;
 }
 
 section {
     display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 90%;
+
 }
