@@ -2,8 +2,7 @@
      font-family: 'Poppins', sans-serif;
  }
 
- section {
-
+ .top-banar {
      display: flex;
      background-color: blanchedalmond;
  }
