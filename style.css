@@ -52,7 +52,8 @@
 
  .middle-banar {
      display: flex;
-
+     background-image: url(Frame\ 57.jpg);
+     background-repeat: no-repeat;
  }
 
  .helf-weldth-2 {
@@ -67,6 +68,11 @@
      width: 250px;
  }
 
- #place h2 p {}
-
- #place2 img {}
+ #contact-button {
+     color: chartreuse;
+     padding: 15px 25px;
+     background-color: darkslategray;
+     text-decoration: none;
+     margin-left: 15%;
+     margin-top: 20%;
+ }
