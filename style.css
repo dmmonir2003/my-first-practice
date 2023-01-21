@@ -1,5 +1,6 @@
  body {
      font-family: 'Poppins', sans-serif;
+     margin: 0;
  }
 
  .top-banar {
@@ -54,6 +55,8 @@
      display: flex;
      background-image: url(Frame\ 57.jpg);
      background-repeat: no-repeat;
+     background-position: right;
+
  }
 
  .helf-weldth-2 {
