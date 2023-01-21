@@ -3,7 +3,9 @@
  }
 
  section {
+
      display: flex;
+     background-color: blanchedalmond;
  }
 
  .helf-weldth {
@@ -29,6 +31,11 @@
  h3 {
      margin: 0;
      margin-bottom: 10px;
+ }
+
+ #button-place {
+     margin-bottom: 0;
+
  }
 
  .link-button {
