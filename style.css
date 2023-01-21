@@ -44,3 +44,21 @@
      text-decoration: none;
 
  }
+
+ #about-me-text {
+     font-size: 30px;
+ }
+
+ .middle-banar {
+     display: flex;
+
+ }
+
+ .helf-weldth-2 {
+     width: 50%;
+ }
+
+ .helf-weldth-2 img {
+     width: 80%;
+     height: 50%;
+ }
