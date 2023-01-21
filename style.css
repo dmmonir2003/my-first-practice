@@ -1,0 +1,40 @@
+ body {
+     font-family: 'Poppins', sans-serif;
+ }
+
+ section {
+     display: flex;
+ }
+
+ .helf-weldth {
+     width: 50%;
+     margin-left: 5%;
+     margin-right: 5%;
+ }
+
+ .helf-weldth img {
+     width: 100%;
+
+ }
+
+ #skip-color {
+     color: chartreuse;
+ }
+
+ h1 {
+     font-size: 40px;
+     margin: 0;
+ }
+
+ h3 {
+     margin: 0;
+     margin-bottom: 10px;
+ }
+
+ .link-button {
+     color: rgb(145, 255, 0);
+     background-color: rgb(0, 149, 255);
+     padding: 10px 20px;
+     text-decoration: none;
+
+ }
